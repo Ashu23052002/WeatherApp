@@ -1,4 +1,4 @@
-Weather App using OpenWeather API
+Weatherly - Weather App using OpenWeather API
 
 This project is a weather application that utilizes the OpenWeatherMap API to fetch and display weather information for any city in the world. The application is built using React for the frontend and styled using HTML and CSS to create a clean and visually appealing user interface. The website is designed to be responsive, ensuring a seamless user experience across various devices.
 
